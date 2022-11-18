@@ -1,6 +1,12 @@
 # Random seed file created by test scripts and sample programs
 seedfile
 
+android-build/aarch64-linux-android33/
+android-build/armv7a-linux-androideabi33/
+android-build/i686-linux-android33/
+android-build/x86_64-linux-android33/
+install-ndk/
+
 # CMake build artifacts:
 CMakeCache.txt
 CMakeFiles
